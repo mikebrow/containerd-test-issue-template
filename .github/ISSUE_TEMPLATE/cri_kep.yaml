@@ -24,7 +24,7 @@ body:
           - **KEP-Shepherd: containerd owner assigned to this issue
 
 body:
-  - type: markdown
+  - type: input
       value: |
           - KEP(s):
           - stage:
