@@ -12,7 +12,7 @@ body:
   - type: markdown
     attributes:
       value: |
-      "## KEP/SIG-Node References"
+      ## KEP/SIG-Node References
         example:
           - **KEP**: #
           - **stage**: alpha|beta w/gate off|beta w/gate on|ga
